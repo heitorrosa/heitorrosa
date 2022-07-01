@@ -2,7 +2,7 @@
 <h1> Console.WriteLine("Hello World"); 🖥️</h1>
 </div>
 
-* Working on **Sapphire Tools** 🧪
+* Working on **Sapphire Tools 🧪**
   > **Status: Development ⚠️**
 
 
