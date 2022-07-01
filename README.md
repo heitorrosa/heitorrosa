@@ -23,7 +23,7 @@
   <a href="https://www.youtube.com/channel/UCrPozYRQX8GfvfQbvdDP-RA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/748599454893998082/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/heitorrosa/heitorrosa/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/heitorrosa/heitorrosa)
  
 </div>
 
