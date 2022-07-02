@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=heitorrosa&style=flat-square&color=gray)
+
+
 <div align="center">
 <h1> Console.WriteLine("Hello World"); 🖥️</h1>
 </div>
