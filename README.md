@@ -1,6 +1,4 @@
-<div align="center">
-![](https://komarev.com/ghpvc/?username=heitorrosa&style=flat-square&color=gray)
-</div>
+![](https://komarev.com/ghpvc/?username=heitorrosa&style=flat-square&color=blue)
 
 <div align="center">
 <h1> Console.WriteLine("Hello World"); 🖥️</h1>
