@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=heitorrosa&style=for-the-badge&color=blue)
 
 <div align="center">
-<h1> Console.WriteLine("Hello World"); 🖥️</h1>
+<h1> echo "Hello World!"</h1>
 </div>
 
 ##
