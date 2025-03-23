@@ -4,7 +4,7 @@
 
 ### 🤔 Facts about me!
 
-- I'm studying Computer Science, branched at Systems Development in the State University of Campinas (Unicamp).
+- I'm 15 and i'm studying Computer Science, branched at Systems Development in the State University of Campinas (Unicamp).
 - I have plenty of knowledge in silicon and ways to achieve its maximum performance through Overclocking and Tuning.
 - My favourite languages are **PowerShell**, **C++** and **C#**, but im also learning **C** and **kernel** level logic.
 - Currently dual-booting **Windows 11** + [GlazeWM](https://github.com/glzr-io/glazewm) and **Arch Linux** + [Hyprland](https://github.com/hyprwm) with the [rEFInd](https://github.com/2KAbhishek/refind2k) bootloader.
@@ -18,6 +18,7 @@
 
 <br>
 
+- [🟡] [TheOS](https://github.com/heitorrosa/TheOS): A custom Windows Server based Operating System that includes many changes towards real-time performance, including improvements in gaming and intensive workloads focusing in latency. **(Currently abandoned)**
 - [🔵] [remote.ctrl](https://github.com/heitorrosa/remote.ctrl): A Websocket client for Windows allowing the change of variables and execution of commands within a Web Interface using Boost.Asio and Boost.Beast, written in C++.
 - [🟢] [HWID Checker](https://github.com/heitorrosa/hwid-checker): A C# application using Windows Forms and the Terminal to check for the user's HWID, used for some login pages and kernel anti-cheats.
 
