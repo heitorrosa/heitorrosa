@@ -12,6 +12,10 @@
 #### Learn more about my Desktop and Workflow setup [here](https://github.com/heitorrosa/.files).
 
 #
+### </> Projects
+tbd
+
+#
 
 ### 🖥️ Programming Languages
 ![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,cs,cpp,py,lua,nodejs,html,css,js,jquery,bootstrap,php&perline=13)
@@ -23,7 +27,12 @@
 
 #
 
-### </> Projects
+### 📜 Certificates
+tbd
+
+#
+
+### 👨‍💻 Experience
 tbd
 
 #
