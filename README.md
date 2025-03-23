@@ -14,7 +14,7 @@
 #
 
 ### 🖥️ Programming Languages
-![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,cs,cpp,py,lua,nodejs,html,css,js,jquery,bootstrap,php)
+![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,cs,cpp,py,lua,nodejs,html,css,js,jquery,bootstrap,php&perline=13)
  and more...
 
 ### 🛠️ Tools
