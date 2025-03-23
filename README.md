@@ -18,7 +18,7 @@
  and more...
 
 ### 🛠️ Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,android,github,git,arduino,visualstudio,vscode,dotnet,virtualbox,blender,unity,godot,gamemakerstudio,robloxstudio,canva&perline=13)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,android,github,git,arduino,visualstudio,vscode,sublime,dotnet,virtualbox,blender,unity,godot,gamemakerstudio,robloxstudio,canva&perline=13)
 
 
 #
