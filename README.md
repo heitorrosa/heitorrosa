@@ -9,7 +9,7 @@
 - My favourite languages are **PowerShell**, **C++** and **C#**, but im also learning **C** and **kernel** level logic.
 - Currently dual-booting **Windows 11** + [GlazeWM](https://github.com/glzr-io/glazewm) and **Arch Linux** + [Hyprland](https://github.com/hyprwm) with the [rEFInd](https://github.com/2KAbhishek/refind2k) bootloader.
 
-### <img width="38" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/512px-Flag_of_Brazil.svg.png?20240809055211"> <img width="51" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg">
+### <img width="50" src="/assets/BR.svg"> <img width="50" src="/assets/US.svg">
 #### Learn more about my Desktop and Workflow setup [here](https://github.com/heitorrosa/.files).
 
 #
