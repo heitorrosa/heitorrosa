@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=heitorrosa&style=flat&color=grey)
 
-# Hi there! I'm Heitor!
+# Hi there! I'm Heitor! 👋
 
 ### 🤔 Facts about me!
 
