@@ -12,8 +12,13 @@
 #### Learn more about my Desktop and Workflow setup [here](https://github.com/heitorrosa/.files).
 
 #
+
 ### </> Projects
-tbd
+[🟡] In Development 〡 [🔵] Stable 〡 [🟢] Finished
+
+<br>
+
+[🔵] [remote.ctrl](https://github.com/heitorrosa/remote.ctrl): A Simple Websocket client for Window allowing the change of variables and execution of commands within a Web Interface using Boost.Asio and Boost.Beast.
 
 #
 
