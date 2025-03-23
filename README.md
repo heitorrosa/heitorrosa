@@ -18,7 +18,8 @@
 
 <br>
 
-[🔵] [remote.ctrl](https://github.com/heitorrosa/remote.ctrl): A Simple Websocket client for Window allowing the change of variables and execution of commands within a Web Interface using Boost.Asio and Boost.Beast.
+- [🔵] [remote.ctrl](https://github.com/heitorrosa/remote.ctrl): A Websocket client for Windows allowing the change of variables and execution of commands within a Web Interface using Boost.Asio and Boost.Beast, written in C++.
+- [🟢] [HWID Checker](https://github.com/heitorrosa/hwid-checker): A C# application using Windows Forms and the Terminal to check for the user's HWID, used for some login pages and kernel anti-cheats.
 
 #
 
