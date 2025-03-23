@@ -14,10 +14,11 @@
 #
 
 ### 🖥️ Programming Languages
-tbd
+![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,cs,cpp,py,lua,nodejs,html,css,js,jquery,bootstrap,php)
+ and more...
 
 ### 🛠️ Tools
-tbd
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,android,github,git,arduino,visualstudio,vscode,dotnet,virtualbox,blender,unity,godot,gamemakerstudio,robloxstudio,canva)
 
 #
 
