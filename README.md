@@ -11,6 +11,8 @@
 
 #### Learn more about my Desktop and Workflow setup [here](https://github.com/heitorrosa/.files).
 
+<br>
+
 <div>
  <img width="50" src="/assets/BR.svg">
  <img width="50" src="/assets/US.svg">
