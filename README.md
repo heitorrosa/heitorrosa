@@ -2,7 +2,7 @@
 
 # Hi! I'm Heitor!
 
-<h3>🤔 Facts About Me!</h3>
+### 🤔 Facts About Me!
 
 - I'm studying Computer Science, branched at Systems Development State University of Campinas
 - I have plenty of knowledge in silicon and ways to achieve its maximum performance through Overclocking and Tuning
