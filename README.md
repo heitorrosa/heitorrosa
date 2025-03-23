@@ -31,6 +31,10 @@ tbd
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=heitorrosa&show_icons=true&theme=dark#gh-dark-mode-only&locale=en" alt="heitorrosa" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=heitorrosa&show_icons=true&locale=en&layout=pie&theme=dark#gh-dark-mode-only" alt="heitorrosa" /></p>
 
-
+<br><br><br><br><br><br><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heitorrosa&theme=dark#gh-dark-mode-only" alt="heitorrosa" /></p>
+
+<br><br><br><br><br><br><br><br>
+
+tbd
