@@ -26,9 +26,10 @@
 
 <br>
 
-- [🟡] [TheOS](https://github.com/heitorrosa/TheOS): A custom Windows Server based Operating System that includes many changes towards real-time performance, including improvements in gaming and intensive workloads focusing in latency. **(Currently abandoned)**
+- [🟡] [Prixy](https://github.com/heitorrosa/prixy): A marketplace platform similar to eBay and Facebook Marketplace that includes a P2P system for payments and a robust back-end that can be easily hosted using Docker, written using a variety of tools and languages. **(My most complex project yet)**
 - [🔵] [remote.ctrl](https://github.com/heitorrosa/remote.ctrl): A Websocket client for Windows allowing the change of variables and execution of commands within a Web Interface using Boost.Asio and Boost.Beast, written in C++.
 - [🟢] [HWID Checker](https://github.com/heitorrosa/hwid-checker): A C# application using Windows Forms and the Terminal to check for the user's HWID, used for some login pages and kernel anti-cheats.
+- [🟡] [TheOS](https://github.com/heitorrosa/TheOS): A custom Windows Server based Operating System that includes many changes towards real-time performance, including improvements in gaming and intensive workloads focusing in latency. **(Currently abandoned)**
 
 #
 
