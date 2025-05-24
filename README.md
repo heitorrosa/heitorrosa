@@ -13,7 +13,7 @@
 
 <br>
 
-<div>
+<div align="center">
  <img width="50" src="/assets/BR.svg">
  <img width="50" src="/assets/US.svg">
 </div>
@@ -32,12 +32,15 @@
 - [🟡] [TheOS](https://github.com/heitorrosa/TheOS): A custom Windows Server based Operating System that includes many changes towards real-time performance, including improvements in gaming and intensive workloads focusing in latency. **(Currently abandoned)**
 
 #
-
-### 🖥️ Programming Languages
+<div align="center">
+ 
+ ### 🖥️ Programming Languages
 ![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,cs,cpp,py,nodejs,html,css,js,jquery,bootstrap,php&perline=13)
 
 ### 🛠️ Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,android,github,git,arduino,visualstudio,vscode,dotnet,virtualbox,canva&perline=13)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,android,docker,github,git,arduino,visualstudio,vscode,dotnet,virtualbox,canva&perline=13)
+</div>
+
 
 
 #
