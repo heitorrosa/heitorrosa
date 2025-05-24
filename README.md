@@ -34,11 +34,10 @@
 #
 
 ### 🖥️ Programming Languages
-![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,cs,cpp,py,lua,nodejs,html,css,js,jquery,bootstrap,php&perline=13)
- and more...
+![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,cs,cpp,py,nodejs,html,css,js,jquery,bootstrap,php&perline=13)
 
 ### 🛠️ Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,android,github,git,arduino,visualstudio,vscode,sublime,dotnet,virtualbox,blender,unity,godot,gamemakerstudio,robloxstudio,canva&perline=13)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,android,github,git,arduino,visualstudio,vscode,dotnet,virtualbox,canva&perline=13)
 
 
 #
