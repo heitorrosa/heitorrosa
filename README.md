@@ -35,10 +35,10 @@
 <div align="center">
  
  ### 🖥️ Programming Languages
-![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,c,cs,cpp,py,nodejs,php,html,css,js,jquery,bootstrap&perline=13)
+![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,c,cs,cpp,py,nodejs,php&perline=13)
 
 ### 🛠️ Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,android,docker,github,git,arduino,dotnet,virtualbox&perline=13)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=docker,git,arduino,dotnet,virtualbox&perline=13)
 </div>
 
 
