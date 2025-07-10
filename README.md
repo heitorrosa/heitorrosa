@@ -6,7 +6,7 @@
 
 - I'm **15y/o** and i'm studying Computer Science, branched at Systems Development in the State University of Campinas (Unicamp).
 - I have plenty of knowledge in silicon and ways to achieve its maximum performance through Overclocking and Tuning.
-- My favourite languages are **PowerShell**, **C++** and **C**, but im also learning **React**.
+- My favourite languages are **PowerShell**, **C++** and **C**, but im also learning **React** and **WebSockets**.
 - Currently dual-booting **Windows 11** + [GlazeWM](https://github.com/glzr-io/glazewm) and **Arch Linux** + [Hyprland](https://github.com/hyprwm) with the [rEFInd](https://github.com/2KAbhishek/refind2k) bootloader.
 
 #### Learn more about my Desktop and Workflow setup [here](https://github.com/heitorrosa/.files).
