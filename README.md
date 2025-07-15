@@ -29,7 +29,7 @@
 - [🔴] [TheOS](https://github.com/heitorrosa/TheOS): A custom Windows Server based Operating System that includes many changes towards real-time performance, including improvements in gaming and intensive workloads focusing in latency.
 - [🟡] [prixy](https://github.com/heitorrosa/prixy): A marketplace platform similar to eBay and Facebook Marketplace that includes a P2P system for payments and a robust back-end that can be easily hosted using Docker, written using a variety of tools and languages.
 - [🟢] [remote.ctrl](https://github.com/heitorrosa/remote.ctrl): A Websocket client for Windows allowing the change of variables and execution of commands within a Web Interface using Boost.Asio and Boost.Beast, written in C++.
-- [🟢] [SoundClicker](https://github.com/heitorrosa/hwid-checker): A C application focused in Minecraft players that use AutoClickers to help them fake their click sounds, useful when recording a video, for example.
+- [🟢] [SoundClicker](https://github.com/heitorrosa/SoundClicker): A C application focused in Minecraft players that use AutoClickers to help them fake their click sounds, useful when recording a video, for example.
 
 #
 <div align="center">
