@@ -38,7 +38,7 @@
 ![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,c,cs,cpp,py,nodejs,php&perline=13)
 
 ### 🛠️ Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=docker,git,arduino,dotnet,virtualbox&perline=13)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=proxmox,docker,git,arduino,dotnet,virtualbox&perline=13)
 </div>
 
 
@@ -57,8 +57,8 @@ tbd
 
 <html align="center">
   <div align="center">
-  <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=heitorrosa&show_icons=true&theme=dark#gh-dark-mode-only">
-      <img height=180px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorrosa&layout=compact&theme=dark#gh-dark-mode-only">
+      <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=heitorrosa&show_icons=true&hide_border=true&bg_color=00000000">
+      <img height=180px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorrosa&layout=compact&hide_border=true&bg_color=00000000">
   </div>
 </html>
 
