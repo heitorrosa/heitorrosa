@@ -58,7 +58,7 @@ tbd
 <html align="center">
   <div align="center">
       <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=heitorrosa&show_icons=true&hide_border=true&bg_color=00000000&text_color=ffffff#gh-dark-mode-only">
-      <img height=180px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorrosa&layout=compact&hide_border=true&bg_color=00000000">
+      <img height=180px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorrosa&layout=compact&hide_border=true&bg_color=00000000&text_color=ffffff#gh-dark-mode-only">
   </div>
 </html>
 
