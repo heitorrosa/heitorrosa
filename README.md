@@ -28,6 +28,7 @@
 
 - [🔴] [TheOS](https://github.com/heitorrosa/TheOS): A custom Windows Server based Operating System that includes many changes towards real-time performance, including improvements in gaming and intensive workloads focusing in latency.
 - [🟡] [prixy](https://github.com/heitorrosa/prixy): A marketplace platform similar to eBay and Facebook Marketplace that includes a P2P system for payments and a robust back-end that can be easily hosted using Docker, written using a variety of tools and languages.
+- [🟡] [scraperB3](https://github.com/heitorrosa/scraperB3): A Python Web-Scraper linked to UNICAMP's Database that gets fundamental and historical data for the Brazilian Stock Market, that data will be used to train an AI Agent for the Stock Market
 
 #
 <div align="center">
