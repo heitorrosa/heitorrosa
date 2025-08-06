@@ -37,7 +37,7 @@
 ![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,c,cs,cpp,py,nodejs,php&perline=13)
 
 ### 🛠️ Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=websocket,git,arduino,dotnet,virtualbox,proxmox,docker&perline=13)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=mysql,websocket,git,arduino,dotnet,virtualbox,proxmox,docker&perline=13)
 </div>
 
 
