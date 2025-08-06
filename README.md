@@ -10,8 +10,8 @@
 Learn more about my desktop and workflow setup [here](https://github.com/heitorrosa/.files).
 
 <div align="center">
- <img width="40" src="/assets/BR.svg">
- <img width="40" src="/assets/US.svg">
+ <img width="60" src="/assets/BR.svg">
+ <img width="60" src="/assets/US.svg">
 </div>
 
 <h2 align="left">Projects</h2>
