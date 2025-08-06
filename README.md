@@ -20,42 +20,45 @@ Learn more about my desktop and workflow setup [here](https://github.com/heitorr
     <b>Status:</b> d - in development | s - stable | f - finished | p - paused
 </small>
 
-#### [p] [TheOS](https://github.com/heitorrosa/TheOS)
+### [p] [TheOS](https://github.com/heitorrosa/TheOS)
 A custom Windows Server-based operating system optimized for real-time performance, focusing on gaming and intensive workloads with minimal latency.
+
 **Technologies:** Batch, Powershell, Windows Server
 
-#### [d] [prixy](https://github.com/heitorrosa/prixy)
+### [d] [prixy](https://github.com/heitorrosa/prixy)
 A comprehensive marketplace platform similar to eBay and Facebook Marketplace, featuring peer-to-peer payment systems and a containerized backend architecture.
+
 **Technologies:** Docker, React, NodeJS, Socket.IO, JWT
 
-#### [d] [scraperB3](https://github.com/heitorrosa/scraperB3)
+### [d] [scraperB3](https://github.com/heitorrosa/scraperB3)
 An intelligent web scraper integrated with UNICAMP's database infrastructure to collect fundamental and historical data from the Brazilian Stock Market for AI-driven trading analysis.
+
 **Technologies:** Python, Selenium, Pandas, MySQL
 
 <h2 align="left">Technical Skills</h2>
 
 <div align="center">
-<h5>Programming Languages</h5>
+<h3>Programming Languages</h3>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,powershell,bash&perline=8" alt="Programming Languages">
 </div>
 
 
 <div align="center">
-<h5>Frameworks & Development</h5>
+<h3>Frameworks & Development</h3>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,nodejs,react,mysql,websocket&perline=8" alt="Frameworks">
 </div>
 
 <div align="center">
-<h5>DevOps, CI/CD & Others</h5>
+<h3>DevOps, CI/CD & Others</h3>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,virtualbox,proxmox,arduino&perline=8" alt="DevOps">
 </div>
 
 
-<h3 align="left">Experience</h3>
+<h2 align="left">Experience</h2>
 
 To be updated...
 
-<h3 align="left">Certificates</h3>
+<h2 align="left">Certificates</h2>
 
 To be updated...
 
