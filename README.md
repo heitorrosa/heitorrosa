@@ -4,7 +4,7 @@
 
 - 15-year-old Computer Science student specializing in Systems Development at the State University of Campinas (Unicamp)
 - Expertise in hardware optimization, overclocking, and performance tuning
-- Currently learning new skills in React and WebSocket
+- Currently learning new skills in React and WebSocket but also, starting to focus in TensorFlow and Keras
 - Dual-booting Windows 11 with [GlazeWM](https://github.com/glzr-io/glazewm) and Arch Linux with [Hyprland](https://github.com/hyprwm)
 
 Learn more about my desktop and workflow setup [here](https://github.com/heitorrosa/.files).
