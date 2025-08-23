@@ -45,7 +45,7 @@ An intelligent web scraper integrated with UNICAMP's database infrastructure to 
 
 <div align="center">
 <h3>Frameworks & Development</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,nodejs,react,pandas,mysql,websocket&perline=8" alt="Frameworks">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,nodejs,pandas,mysql,websocket&perline=8" alt="Frameworks">
 </div>
 
 <div align="center">
