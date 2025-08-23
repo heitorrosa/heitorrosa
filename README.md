@@ -39,7 +39,7 @@ An intelligent web scraper integrated with UNICAMP's database infrastructure to 
 
 <div align="center">
 <h3>Programming Languages</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,powershell,bash&perline=8" alt="Programming Languages">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,powershell&perline=8" alt="Programming Languages">
 </div>
 
 
@@ -65,6 +65,6 @@ To be updated...
 
 
 <div align="center">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=heitorrosa&show_icons=true&hide_border=true&bg_color=00000000&text_color=ffffff#gh-dark-mode-only" alt="GitHub Stats">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorrosa&layout=compact&hide_border=true&bg_color=00000000&text_color=ffffff#gh-dark-mode-only" alt="Top Languages">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=heitorrosa&show_icons=true&hide_border=true&bg_color=00000000&text_color=c9d1d9#gh-dark-mode-only&text_color=24292e#gh-light-mode-only" alt="GitHub Stats">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorrosa&exclude_repo=TheOS&layout=compact&hide_border=true&bg_color=00000000&text_color=c9d1d9#gh-dark-mode-only&text_color=24292e#gh-light-mode-only" alt="Top Languages">
 </div>
