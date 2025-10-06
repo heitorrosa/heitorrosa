@@ -30,7 +30,7 @@ A comprehensive marketplace platform similar to eBay and Facebook Marketplace, f
 
 **Technologies:** Docker, React, NodeJS, Socket.IO, JWT
 
-### [d] [scraperB3](https://github.com/heitorrosa/scraperB3)
+### [s] [scraperB3](https://github.com/heitorrosa/scraperB3)
 An intelligent web scraper integrated with UNICAMP's database infrastructure to collect fundamental and historical data from the Brazilian Stock Market for AI-driven stocks analysis.
 
 **Technologies:** Python, Selenium, Pandas, MySQL
