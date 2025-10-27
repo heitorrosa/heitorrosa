@@ -4,7 +4,7 @@
 
 - 15-year-old Computer Science student specializing in Systems Development at the State University of Campinas (Unicamp)
 - Expertise in hardware optimization, overclocking, and performance tuning
-- Currently learning new skills in React and WebSocket, but also starting to focus in TensorFlow and Keras
+- Currently learning new skills in React and WebSocket, but also starting to focus in improving my skills in economics and statistics for my Final Paper (Mansa)
 - Dual-booting Windows 11 with [GlazeWM](https://github.com/glzr-io/glazewm) and Arch Linux with [Hyprland](https://github.com/hyprwm)
 
 Learn more about my desktop and workflow setup [here](https://github.com/heitorrosa/.files).
@@ -50,7 +50,7 @@ An intelligent web scraper integrated with UNICAMP's database infrastructure to 
 
 <div align="center">
 <h3>DevOps, CI/CD & Others</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,virtualbox,proxmox,arduino&perline=8" alt="DevOps">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,virtualbox,proxmox,arduino,platformio&perline=8" alt="DevOps">
 </div>
 
 
