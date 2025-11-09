@@ -2,7 +2,7 @@
 
 <h2 align="left">About Me</h2>
 
-- 15-year-old Computer Science student specializing in Systems Development at the State University of Campinas (Unicamp)
+- 16-year-old Computer Science student specializing in Systems Development at the State University of Campinas (Unicamp)
 - Expertise in hardware optimization, overclocking, and performance tuning
 - Currently learning new skills in React and WebSocket, but also starting to focus in improving my skills in economics and statistics for my Final Paper (Mansa)
 - Dual-booting Windows 11 with [GlazeWM](https://github.com/glzr-io/glazewm) and Arch Linux with [Hyprland](https://github.com/hyprwm)
