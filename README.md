@@ -25,11 +25,6 @@ A custom Windows Server-based operating system optimized for real-time performan
 
 **Technologies:** Batch, Powershell, Windows Server
 
-### [d] [prixy](https://github.com/heitorrosa/prixy)
-A comprehensive marketplace platform similar to eBay and Facebook Marketplace, featuring peer-to-peer payment systems and a containerized backend architecture.
-
-**Technologies:** Docker, React, NodeJS, Socket.IO, JWT
-
 ### [s] [scraperB3](https://github.com/heitorrosa/scraperB3)
 An intelligent web scraper integrated with UNICAMP's database infrastructure to collect fundamental and historical data from the Brazilian Stock Market for AI-driven stocks analysis.
 
