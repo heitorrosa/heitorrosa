@@ -2,10 +2,9 @@
 
 <h2 align="left">About Me</h2>
 
-- 16-year-old Computer Science student specializing in Systems Development at the State University of Campinas (Unicamp)
+- 16 years old Computer Science student specializing in Systems Development at the State University of Campinas (Unicamp)
 - Expertise in hardware optimization, overclocking, and performance tuning
 - Currently learning new skills in React and WebSocket, but also starting to focus in improving my skills in economics and statistics for my Final Paper (Mansa)
-- Dual-booting Windows 11 with [GlazeWM](https://github.com/glzr-io/glazewm) and Arch Linux with [Hyprland](https://github.com/hyprwm)
 
 Learn more about my desktop and workflow setup [here](https://github.com/heitorrosa/.files).
 
@@ -23,12 +22,10 @@ Learn more about my desktop and workflow setup [here](https://github.com/heitorr
 ### [p] [TheOS](https://github.com/heitorrosa/TheOS)
 A custom Windows Server-based operating system optimized for real-time performance, focusing on gaming and intensive workloads with minimal latency.
 
-**Technologies:** Batch, Powershell, Windows Server
+**Technologies:** Batch, Powershell, Windows Server, Windows Internals
 
-### [s] [scraperB3](https://github.com/heitorrosa/scraperB3)
-An intelligent web scraper integrated with UNICAMP's database infrastructure to collect fundamental and historical data from the Brazilian Stock Market for AI-driven stocks analysis.
-
-**Technologies:** Python, Selenium, Pandas, MySQL
+### [d] [Mansa](https://github.com/mansa-team)
+An AI-powered fintech platform designed to help Brazilian middle-class investors safely enter the stock market.
 
 <h2 align="left">Technical Skills</h2>
 
@@ -47,17 +44,6 @@ An intelligent web scraper integrated with UNICAMP's database infrastructure to 
 <h3>DevOps, CI/CD & Others</h3>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,virtualbox,proxmox,arduino,platformio&perline=8" alt="DevOps">
 </div>
-
-
-<h2 align="left">Experience</h2>
-
-To be updated...
-
-<h2 align="left">Certificates</h2>
-
-To be updated...
-
-
 
 <div align="center">
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=heitorrosa&show_icons=true&hide_border=true&bg_color=00000000&text_color=c9d1d9#gh-dark-mode-only&text_color=24292e#gh-light-mode-only" alt="GitHub Stats">
