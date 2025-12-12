@@ -31,13 +31,13 @@ An AI-powered fintech platform designed to help Brazilian middle-class investors
 
 <div align="center">
 <h3>Programming Languages</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,powershell&perline=8" alt="Programming Languages">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,cs,powershell&perline=8" alt="Programming Languages">
 </div>
 
 
 <div align="center">
 <h3>Frameworks & Development</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,nodejs,pandas,mysql,websocket&perline=8" alt="Frameworks">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,nodejs,pandas,selenium,mysql,websocket&perline=8" alt="Frameworks">
 </div>
 
 <div align="center">
