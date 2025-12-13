@@ -24,7 +24,7 @@ A custom Windows Server-based operating system optimized for real-time performan
 
 **Technologies:** Batch, Powershell, Windows Server, Windows Internals
 
-### [d] [Cauto](https://github.com/Cauto)
+### [d] [Cauto](https://github.com/heitorrosa/Cauto)
 An extremely advanced Minecraft Autoclicker with an web-based GUI that contains multiple features for stealthness and forensic techniques to hide from screenshares.
 
 **Technologies:** C, WebSockets, Windows API
