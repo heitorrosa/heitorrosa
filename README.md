@@ -52,5 +52,5 @@ An AI-powered fintech platform designed to help Brazilian middle-class investors
 
 <div align="center">
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=heitorrosa&show_icons=true&hide_border=true&bg_color=00000000&text_color=c9d1d9#gh-dark-mode-only&text_color=24292e#gh-light-mode-only" alt="GitHub Stats">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorrosa&exclude_repo=TheOS&layout=compact&hide_border=true&bg_color=00000000&text_color=c9d1d9#gh-dark-mode-only&text_color=24292e#gh-light-mode-only" alt="Top Languages">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorrosa&layout=compact&hide_border=true&bg_color=00000000&text_color=c9d1d9#gh-dark-mode-only&text_color=24292e#gh-light-mode-only" alt="Top Languages">
 </div>
