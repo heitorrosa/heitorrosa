@@ -3,8 +3,8 @@
 <h2 align="left">About Me</h2>
 
 - 16 years old Computer Science student specializing in Systems Development at the State University of Campinas (Unicamp)
-- Expertise in hardware optimization, overclocking, and performance tuning
-- Currently learning new skills in React and WebSocket, but also starting to focus in improving my skills in economics and statistics for my Final Paper (Mansa)
+- Expertise in hardware optimization, overclocking, performance tuning and UEFI modding since 2022
+- Currently learning Quant focused programming and AI/ML for my final paper (Mansa).
 
 Learn more about my desktop and workflow setup [here](https://github.com/heitorrosa/.files).
 
