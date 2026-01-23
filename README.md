@@ -22,7 +22,7 @@ Learn more about my desktop and workflow setup [here](https://github.com/heitorr
 ### [p] [TheOS](https://github.com/heitorrosa/TheOS)
 A custom Windows Server-based operating system optimized for real-time performance, focusing on gaming and intensive workloads with minimal latency.
 
-**Technologies:** Batch, Powershell, Windows Server, Windows Internals
+**Technologies:** Batch, Powershell, Windows Internals
 
 ### [d] [Cauto](https://github.com/heitorrosa/Cauto)
 An extremely advanced Minecraft Autoclicker with an web-based GUI that contains multiple features for stealthness and forensic techniques to hide from screenshares.
