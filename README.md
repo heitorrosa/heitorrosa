@@ -32,6 +32,8 @@ An extremely advanced Minecraft Autoclicker with an web-based GUI that contains 
 ### [d] [Mansa](https://github.com/mansa-team)
 An AI-powered fintech platform designed to help Brazilian middle-class investors safely enter the stock market.
 
+**Technologies:** Python, Quant, FastAPI
+
 <h2 align="left">Technical Skills</h2>
 
 <div align="center">
