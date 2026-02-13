@@ -49,7 +49,7 @@ A open-source Drone with military-level coverage made using microcontrollers lik
 
 <div align="center">
 <h3>Frameworks & Development</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,nodejs,pandas,selenium,mysql,websocket,fastapi&perline=8" alt="Frameworks">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,nodejs,pandas,selenium,fastapi,mysql,websocket&perline=8" alt="Frameworks">
 </div>
 
 <div align="center">
@@ -58,6 +58,6 @@ A open-source Drone with military-level coverage made using microcontrollers lik
 </div>
 
 <div align="center">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=heitorrosa&show_icons=true&hide_border=true&bg_color=00000000&text_color=c9d1d9#gh-dark-mode-only&text_color=24292e#gh-light-mode-only" alt="GitHub Stats">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorrosa&exclude_repo=TheOS&layout=compact&hide_border=true&bg_color=00000000&text_color=c9d1d9#gh-dark-mode-only&text_color=24292e#gh-light-mode-only" alt="Top Languages">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=heitorrosa&show_icons=true&hide_border=true&bg_color=00000000&text_color=c9d1d9#gh-dark-mode-only&text_color=24292e#gh-light-mode-only">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorrosa&exclude_repo=TheOS&layout=compact&hide_border=true&bg_color=00000000&text_color=c9d1d9#gh-dark-mode-only&text_color=24292e#gh-light-mode-only">
 </div>
