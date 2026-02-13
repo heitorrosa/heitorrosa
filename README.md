@@ -32,7 +32,12 @@ An extremely advanced Minecraft Autoclicker with an web-based GUI that contains 
 ### [d] [Mansa](https://github.com/mansa-team)
 An AI-powered fintech platform designed to help Brazilian middle-class investors safely enter the stock market.
 
-**Technologies:** Python, Quant, FastAPI
+**Technologies:** Python, Algo Trading, FastAPI
+
+### [p] [G.O.T.A](https://github.com/heitorrosa/G.O.T.A)
+A open-source Drone with military-level coverage made using microcontrollers like Arduino and the ESP32-S3 using technologies like LoRa for long-range communication.
+
+**Technologies:** C++, Embedded Systems, LoRa
 
 <h2 align="left">Technical Skills</h2>
 
