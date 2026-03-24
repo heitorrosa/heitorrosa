@@ -19,20 +19,20 @@ Learn more about my desktop and workflow setup [here](https://github.com/heitorr
     <b>Status:</b> d - in development | s - stable | f - finished | p - paused
 </small>
 
-### [p] [TheOS](https://github.com/heitorrosa/TheOS)
-A custom Windows Server-based operating system optimized for real-time performance, focusing on gaming and intensive workloads with minimal latency.
+### [d] [Mansa](https://github.com/mansa-team)
+An AI-powered fintech platform designed to help Brazilian middle-class investors safely enter the stock market.
 
-**Technologies:** Batch, Powershell, Windows Internals
+**Technologies:** Python, Algo Trading, FastAPI
 
 ### [d] [Cauto](https://github.com/heitorrosa/Cauto)
 An extremely advanced Minecraft Autoclicker with an web-based GUI that contains multiple features for stealthness and forensic techniques to hide from screenshares.
 
 **Technologies:** C, WebSockets, Windows API
 
-### [d] [Mansa](https://github.com/mansa-team)
-An AI-powered fintech platform designed to help Brazilian middle-class investors safely enter the stock market.
+### [p] [TheOS](https://github.com/heitorrosa/TheOS)
+A custom Windows Server-based operating system optimized for real-time performance, focusing on gaming and intensive workloads with minimal latency.
 
-**Technologies:** Python, Algo Trading, FastAPI
+**Technologies:** Batch, Powershell, Windows Internals
 
 ### [p] [G.O.T.A](https://github.com/heitorrosa/G.O.T.A)
 A open-source Drone with military-level coverage made using microcontrollers like Arduino and the ESP32-S3 using technologies like LoRa for long-range communication.
@@ -43,18 +43,23 @@ A open-source Drone with military-level coverage made using microcontrollers lik
 
 <div align="center">
 <h3>Programming Languages</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,cs,powershell&perline=8" alt="Programming Languages">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,java,c,cpp,cs,powershell&perline=8" alt="Programming Languages">
 </div>
 
 
 <div align="center">
 <h3>Frameworks & Development</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,nodejs,pandas,selenium,fastapi,mysql,websocket&perline=8" alt="Frameworks">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,nodejs,selenium,fastapi,mysql,websocket&perline=8" alt="Frameworks">
+</div>
+
+<div align="center">
+<h3>Data Science</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,pytorch,sklearn&perline=8" alt="Frameworks">
 </div>
 
 <div align="center">
 <h3>DevOps, CI/CD & Others</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,virtualbox,proxmox,arduino,platformio&perline=8" alt="DevOps">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,virtualbox,proxmox,tailscale,arduino,platformio&perline=8" alt="DevOps">
 </div>
 
 <div align="center">
