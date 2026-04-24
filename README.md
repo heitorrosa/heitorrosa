@@ -22,7 +22,7 @@ Learn more about my desktop and workflow setup [here](https://github.com/heitorr
 ### [d] [Mansa](https://github.com/mansa-team)
 An AI-powered fintech platform designed to help Brazilian middle-class investors safely enter the stock market.
 
-**Technologies:** Python, Algo Trading, FastAPI
+**Technologies:** Python, Quantamental Investing, FastAPI, PyTorch
 
 ### [d] [Cauto](https://github.com/heitorrosa/Cauto)
 A advanced Minecraft Autoclicker with an web-based GUI that outperforms most commercial alternatives.
