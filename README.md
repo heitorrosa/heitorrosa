@@ -20,7 +20,7 @@ Learn more about my desktop and workflow setup [here](https://github.com/heitorr
 </small>
 
 ### [d] [Mansa](https://github.com/mansa-team)
-An AI-powered fintech platform designed to help Brazilian middle-class investors safely enter the stock market.
+An AI-powered fintech platform designed to help Brazilian middle-class investors safely enter the stock market thorugh Quantametal Investing techniques.
 
 **Technologies:** Python, Quantamental Investing, FastAPI, PyTorch
 
