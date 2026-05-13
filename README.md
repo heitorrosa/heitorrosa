@@ -2,9 +2,9 @@
 
 <h2 align="left">About Me</h2>
 
-- 16 years old Computer Science student specializing in Systems Development at the State University of Campinas (Unicamp)
+- 16 years old self-taught Computer Science student
 - Expertise in hardware optimization, overclocking, performance tuning and UEFI modding since 2022
-- Currently learning Quant focused programming and AI/ML for my final paper (Mansa).
+- Currently learning Quant focused programming and AI/ML for my project Mansa.
 
 Learn more about my desktop and workflow setup [here](https://github.com/heitorrosa/.dotfiles).
 
