@@ -2,7 +2,7 @@
 
 <h2 align="left">About Me</h2>
 
-- 16 years old self-taught Computer Science student
+- 16 years old
 - Expertise in hardware optimization, overclocking, performance tuning and UEFI modding since 2022
 - Currently learning Quant focused programming and AI/ML for my project Mansa.
 
