@@ -20,12 +20,12 @@ Learn more about my desktop and workflow setup [here](https://github.com/heitorr
 </small>
 
 ### [d] [Mansa](https://github.com/mansa-team)
-An AI-powered fintech platform designed to help Brazilian middle-class investors safely enter the stock market thorugh Quantametal Investing techniques.
+An AI-powered fintech platform designed to help Brazilian middle-class investors safely enter the stock market through Quantamental Investing techniques.
 
 **Technologies:** Python, Quantamental Investing, FastAPI, PyTorch
 
 ### [d] [Cauto](https://github.com/heitorrosa/Cauto)
-A advanced Minecraft Autoclicker with an web-based GUI that outperforms most commercial alternatives.
+An advanced Minecraft Autoclicker with a web-based GUI that outperforms most commercial alternatives.
 
 **Technologies:** C, WebSockets, Windows API
 
@@ -49,7 +49,7 @@ An open-source drone engineered with ESP32-S3 and Arduino microcontrollers. It i
 
 <div align="center">
 <h3>Frameworks, Databases & Tooling</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,nodejs,selenium,fastapi,mysql,websocket&perline=8">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,selenium,fastapi,mysql,websocket&perline=8">
 </div>
 
 <div align="center">
