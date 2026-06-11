@@ -54,7 +54,7 @@ An open-source drone engineered with ESP32-S3 and Arduino microcontrollers. It i
 
 <div align="center">
 <h3>Data Science</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,pytorch,sklearn&perline=8">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scipy,pytorch,sklearn&perline=8">
 </div>
 
 <div align="center">
