@@ -59,7 +59,7 @@ An open-source drone engineered with ESP32-S3 and Arduino microcontrollers. It i
 
 <div align="center">
 <h3>Infrastructure & Embedded Systems</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,virtualbox,proxmox,arduino,platformio&perline=8">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,githubactions,virtualbox,proxmox,arduino,platformio&perline=8">
 </div>
 
 <div align="center">
