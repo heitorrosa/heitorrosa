@@ -4,7 +4,7 @@
 
 - 16 years old
 - Expertise in hardware optimization, overclocking, performance tuning and UEFI modding since 2022
-- Currently learning Quant focused programming and AI/ML for my project Mansa.
+- Building quantitative analysis and algorithmic trading systems for Brazilian markets (B3) with Machine Learning, AI and math.
 
 Learn more about my desktop and workflow setup [here](https://github.com/heitorrosa/.dotfiles).
 
