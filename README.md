@@ -20,7 +20,7 @@ Learn more about my desktop and workflow setup [here](https://github.com/heitorr
 </small>
 
 ### [d] [Mansa](https://github.com/mansa-team)
-An AI-powered fintech platform designed to help Brazilian middle-class investors safely enter the stock market through Quantamental Investing techniques.
+An AI-powered fintech platform for Brazilian middle-class investors. Quantamental investing through mixed-effects regression, stock scoring, Black-Litterman portfolio optimization and more.
 
 **Technologies:** Python, Quantamental Investing, FastAPI, PyTorch
 
@@ -32,11 +32,11 @@ An advanced Minecraft Autoclicker with a web-based GUI that outperforms most com
 ### [p] [TheOS](https://github.com/heitorrosa/TheOS)
 A custom Windows Server-based operating system optimized for real-time performance
 
-**Technologies:** Batch, Powershell, Windows Internals
+**Technologies:** Powershell, Windows Internals, Reverse Engineering
 
 ### [p] [G.O.T.A](https://github.com/heitorrosa/G.O.T.A)
 An open-source drone engineered with ESP32-S3 and Arduino microcontrollers. It implements the LoRa protocol for reliable, long-range RF telemetry and hardware integration up to 15km.
-
+ 
 **Technologies:** C++, Embedded Systems, LoRa
 
 <h2 align="left">Technical Skills</h2>
@@ -49,12 +49,13 @@ An open-source drone engineered with ESP32-S3 and Arduino microcontrollers. It i
 
 <div align="center">
 <h3>Frameworks, Databases & Tooling</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,selenium,fastapi,mysql,websocket&perline=8">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,mysql,nodejs,selenium,websocket&perline=8">
 </div>
 
 <div align="center">
-<h3>Data Science</h3>
+<h3>Data Science & Finance</h3>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scipy,pytorch,sklearn&perline=8">
+<p>statsmodels | skfolio</p>
 </div>
 
 <div align="center">
