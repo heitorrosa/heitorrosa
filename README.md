@@ -7,7 +7,7 @@
 * 16 years old
 * hardware optimization, overclocking, performance tuning and uefi modding since 2022
 * currently building quantitative analysis and algorithmic trading systems for the brazilian stocks market with ml/ai and statistical computing.
-* languages: portuguese (native), english (fluent)
+* portuguese (native), english (fluent)
 
 <br>
 
