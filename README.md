@@ -13,8 +13,6 @@
 
 * learn more about my workflow and setup [here](https://github.com/heitorrosa/.dotfiles)
 
-<br>
-
 ## stack
 
 * programming languages: `python`, `c`, `cpp`, `powershell`
