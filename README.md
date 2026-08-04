@@ -1,69 +1,40 @@
 ![](https://komarev.com/ghpvc/?username=heitorrosa&style=flat&color=grey)
 
-<h2 align="left">About Me</h2>
+<img width="1128" height="704" alt="homura from madoka magica lol" src="https://github.com/user-attachments/assets/39f9384a-3e23-492d-8b26-ac617ea2dead" />
 
-- 16 years old
-- Expertise in hardware optimization, overclocking, performance tuning and UEFI modding since 2022
-- Building quantitative analysis and algorithmic trading systems for Brazilian markets (B3) with Machine Learning, AI and math.
+## about me
 
-Learn more about my desktop and workflow setup [here](https://github.com/heitorrosa/.dotfiles).
+* 16 years old
+* hardware optimization, overclocking, performance tuning and uefi modding since 2022
+* currently building quantitative analysis and algorithmic trading systems for the brazilian stocks market with ml/ai and statistical computing.
+* languages: portuguese (native), english (fluent)
 
-<div align="center">
- <img width="60" src="/assets/BR.svg">
- <img width="60" src="/assets/US.svg">
-</div>
+<br>
 
-<h2 align="left">Projects</h2>
+* learn more about my workflow and setup [here](https://github.com/heitorrosa/.dotfiles)
 
-<small>
-    <b>Status:</b> d - in development | s - stable | f - finished | p - paused
-</small>
+<br>
 
-### [d] [Mansa](https://github.com/mansa-team)
-An AI-powered fintech platform for Brazilian middle-class investors. Quantamental investing through mixed-effects regression, stock scoring, Black-Litterman portfolio optimization and more.
+## stack
 
-**Technologies:** Python, Quantamental Investing, FastAPI, PyTorch
-
-### [d] [Cauto](https://github.com/heitorrosa/Cauto)
-An advanced Minecraft Autoclicker with a web-based GUI that outperforms most commercial alternatives.
-
-**Technologies:** C, WebSockets, Windows API
-
-### [p] [TheOS](https://github.com/heitorrosa/TheOS)
-A custom Windows Server-based operating system optimized for real-time performance
-
-**Technologies:** Powershell, Windows Internals, Reverse Engineering
-
-### [p] [G.O.T.A](https://github.com/heitorrosa/G.O.T.A)
-An open-source drone engineered with ESP32-S3 and Arduino microcontrollers. It implements the LoRa protocol for reliable, long-range RF telemetry and hardware integration up to 15km.
- 
-**Technologies:** C++, Embedded Systems, LoRa
-
-<h2 align="left">Technical Skills</h2>
-
-<div align="center">
-<h3>Programming Languages</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,powershell&perline=8">
-</div>
+* programming languages: `python`, `c`, `cpp`, `powershell`
+* frameworks, databases and tooling: `fastapi`, `mysql`, `nodejs`, `selenium`, `libwebsockets`
+* infrastructure and embedded systems: `github actions`, `docker`, `proxmox`, `platformio`
+* data science and econometrics: `pandas`, `numpy`, `scipy`, `statsmodels`, `pytorch`, `sklearn`, `skfolio`
 
 
-<div align="center">
-<h3>Frameworks, Databases & Tooling</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,mysql,nodejs,selenium,websocket&perline=8">
-</div>
+## projects
 
-<div align="center">
-<h3>Data Science & Finance</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scipy,pytorch,sklearn&perline=8">
-<p>statsmodels | skfolio</p>
-</div>
+<small><b>status:</b> d - in development &nbsp;|&nbsp; s - stable &nbsp;|&nbsp; f - finished &nbsp;|&nbsp; p - paused</small>
 
-<div align="center">
-<h3>Infrastructure & Embedded Systems</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,githubactions,virtualbox,proxmox,arduino,platformio&perline=8">
-</div>
+- [d] **[Mansa](https://github.com/mansa-team)**: An AI-powered fintech platform for Brazilian middle-class investors. Quantamental investing through mixed-effects regression, stock scoring, Black-Litterman portfolio optimization and more.
+  - **stack:** python, quant, fastapi, pytorch
 
-<div align="center">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=heitorrosa&show_icons=true&hide_border=true&bg_color=00000000&text_color=c9d1d9#gh-dark-mode-only&text_color=24292e#gh-light-mode-only">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorrosa&exclude_repo=TheOS&layout=compact&hide_border=true&bg_color=00000000&text_color=c9d1d9#gh-dark-mode-only&text_color=24292e#gh-light-mode-only">
-</div>
+- [d] **[Cauto](https://github.com/heitorrosa/Cauto)**: An advanced Minecraft Autoclicker with a web-based GUI that outperforms most commercial alternatives.
+  - **stack:** c, websockets, windows api
+
+- [p] **[TheOS](https://github.com/heitorrosa/TheOS)**: A custom Windows Server-based operating system optimized for real-time performance
+  - **stack:** powershell, windows internals, reverse engineering
+
+- [p] **[G.O.T.A](https://github.com/heitorrosa/G.O.T.A)**: An open-source drone engineered with ESP32-S3 and Arduino microcontrollers. It implements the LoRa protocol for reliable, long-range RF telemetry and hardware integration up to 15km.
+  - **stack:** cpp, embedded systems, lora
