@@ -23,7 +23,7 @@
 
 ## projects
 
-<small><b>status:</b> d - in development &nbsp;|&nbsp; s - stable &nbsp;|&nbsp; f - finished &nbsp;|&nbsp; p - paused</small>
+<small><b>status:</b> d - in development &nbsp;|&nbsp; s - stable &nbsp;|&nbsp; f - finished &nbsp;|&nbsp; a - archived</small>
 
 - [d] **[Mansa](https://github.com/mansa-team)**: An AI-powered fintech platform for Brazilian middle-class investors. Quantamental investing through mixed-effects regression, stock scoring, Black-Litterman portfolio optimization and more.
   - **stack:** python, quant, fastapi, pytorch
@@ -31,8 +31,8 @@
 - [d] **[Cauto](https://github.com/heitorrosa/Cauto)**: An advanced Minecraft Autoclicker with a web-based GUI that outperforms most commercial alternatives.
   - **stack:** c, websockets, windows api
 
-- [p] **[TheOS](https://github.com/heitorrosa/TheOS)**: A custom Windows Server-based operating system optimized for real-time performance
+- [a] **[TheOS](https://github.com/heitorrosa/TheOS)**: A custom Windows Server-based operating system optimized for real-time performance
   - **stack:** powershell, windows internals, reverse engineering
 
-- [p] **[G.O.T.A](https://github.com/heitorrosa/G.O.T.A)**: An open-source drone engineered with ESP32-S3 and Arduino microcontrollers. It implements the LoRa protocol for reliable, long-range RF telemetry and hardware integration up to 15km.
+- [a] **[G.O.T.A](https://github.com/heitorrosa/G.O.T.A)**: An open-source drone engineered with ESP32-S3 and Arduino microcontrollers. It implements the LoRa protocol for reliable, long-range RF telemetry and hardware integration up to 15km.
   - **stack:** cpp, embedded systems, lora
