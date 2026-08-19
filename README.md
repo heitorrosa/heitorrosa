@@ -16,7 +16,7 @@
 ## stack
 
 * programming languages: `python`, `c`, `cpp`, `powershell`
-* frameworks, databases and tooling: `fastapi`, `mysql`, `nodejs`, `selenium`, `libwebsockets`
+* frameworks, databases and tooling: `fastapi`, `mysql`, `sqlite`, `nodejs`, `selenium`, `libwebsockets`
 * infrastructure and embedded systems: `github actions`, `docker`, `proxmox`, `platformio`
 * data science and econometrics: `pandas`, `numpy`, `scipy`, `statsmodels`, `pytorch`, `sklearn`, `skfolio`
 
