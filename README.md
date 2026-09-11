@@ -11,7 +11,8 @@
 
 <br>
 
-* learn more about my workflow and setup [here](https://github.com/heitorrosa/.dotfiles)
+learn more about my workflow and setup [here](https://github.com/heitorrosa/.dotfiles)
+
 
 ## stack
 
@@ -19,6 +20,10 @@
 * frameworks, databases and tooling: `fastapi`, `mysql`, `sqlite`, `nodejs`, `selenium`, `libwebsockets`
 * infrastructure and embedded systems: `github actions`, `docker`, `proxmox`, `platformio`
 * data science and econometrics: `pandas`, `numpy`, `scipy`, `statsmodels`, `pytorch`, `sklearn`, `skfolio`
+
+## papers
+
+tbd
 
 
 ## projects
