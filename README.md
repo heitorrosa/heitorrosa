@@ -4,13 +4,13 @@
 
 ## about me
 
-* 16 years old
+* 16 years old (pt/en)
 * hardware optimization, overclocking, performance tuning and uefi modding since 2022
 * currently building quantitative analysis and algorithmic trading systems for the brazilian stocks market with ml/ai and statistical computing.
-* portuguese (native), english (fluent)
+
+<br>
 
 * onia '26 top 60/965k
-* noic ai department content creator
 
 <br>
 
