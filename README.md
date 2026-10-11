@@ -9,6 +9,9 @@
 * currently building quantitative analysis and algorithmic trading systems for the brazilian stocks market with ml/ai and statistical computing.
 * portuguese (native), english (fluent)
 
+* onia '26 top 60/965k
+* noic ai department content creator
+
 <br>
 
 learn more about my workflow and setup [here](https://github.com/heitorrosa/.dotfiles)
@@ -21,10 +24,6 @@ learn more about my workflow and setup [here](https://github.com/heitorrosa/.dot
 * infrastructure and embedded systems: `github actions`, `docker`, `proxmox`, `platformio`
 * data science and econometrics: `pandas`, `numpy`, `scipy`, `statsmodels`, `pytorch`, `sklearn`, `skfolio`
 
-## papers
-
-tbd
-
 
 ## projects
 
@@ -32,9 +31,12 @@ tbd
 
 - [d] **[Mansa](https://github.com/mansa-team)**: An AI-powered fintech platform for Brazilian middle-class investors. Quantamental investing through mixed-effects regression, stock scoring, Black-Litterman portfolio optimization and more.
   - **stack:** python, quant, fastapi, pytorch
-
+ 
 - [d] **[Cauto](https://github.com/heitorrosa/Cauto)**: An advanced Minecraft Autoclicker with a web-based GUI that outperforms most commercial alternatives.
   - **stack:** c, websockets, windows api
+
+- [s] **[memo](https://github.com/heitorrosa/memo)**: A memory system for AI Agents via MCPs, with durable facts, colisions and managent using the ebbinghaus forgetting curve
+  - **stack** docker, rag, ai harness, sqlite
 
 - [a] **[TheOS](https://github.com/heitorrosa/TheOS)**: A custom Windows Server-based operating system optimized for real-time performance
   - **stack:** powershell, windows internals, reverse engineering
