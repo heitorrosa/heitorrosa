@@ -32,7 +32,7 @@ learn more about my workflow and setup [here](https://github.com/heitorrosa/.dot
 - [d] **[Mansa](https://github.com/mansa-team)**: An AI-powered fintech platform for Brazilian middle-class investors. Quantamental investing through mixed-effects regression, stock scoring, Black-Litterman portfolio optimization and more.
   - **stack:** python, quant, fastapi, pytorch
  
-- [d] **[Cauto](https://github.com/heitorrosa/Cauto)**: An advanced Minecraft Autoclicker with a web-based GUI that outperforms most commercial alternatives.
+- [d] **[Cauto](https://github.com/heitorrosa/Cauto)**: An advanced Minecraft Autoclicker with a web-based GUI that outperforms most commercial alternatives in terms of detection.
   - **stack:** c, websockets, windows api
 
 - [s] **[memo](https://github.com/heitorrosa/memo)**: A memory system for AI Agents via MCPs, with durable facts, colisions and managent using the ebbinghaus forgetting curve
