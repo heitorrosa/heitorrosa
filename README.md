@@ -10,7 +10,8 @@
 
 <br>
 
-* onia '26 top 60/965k
+* onia '26 top 60/965k\
+* ai dep @ noic
 
 <br>
 
